@@ -2,7 +2,7 @@ For detailed information about this project go to this link: https://www.django-
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-**Run this after cloning the process**
+**Run these after cloning the process**
 -------------------------------------------------------------------------------------------------------------------------------------------
 After cloning run these command:
 
