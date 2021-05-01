@@ -1,4 +1,7 @@
 For detailed information about this project go to this link: https://www.django-rest-framework.org/tutorial/quickstart/
+<br>
+or this
+https://rapidapi.com/blog/python-django-rest-api-tutorial/
 
 --------------------------------------------------------------------------------------------------------------------------------
 
